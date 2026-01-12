@@ -2,6 +2,10 @@
 
 A complete Todo web application built with Django, featuring a modern UI with Tailwind CSS.
 
+## Repository
+
+📂 **GitHub Repository**: [https://github.com/parvejme24/Ostad_batch-09.git](https://github.com/parvejme24/Ostad_batch-09.git)
+
 ## Features
 
 - ✅ Create, Read, Update, and Delete tasks
@@ -12,6 +16,10 @@ A complete Todo web application built with Django, featuring a modern UI with Ta
 - ✅ AJAX toggle completion without page reload
 - ✅ Beautiful, responsive UI with Tailwind CSS
 - ✅ Django messages framework for user feedback
+
+## Live Demo
+
+🚀 **Deployed Application**: [https://ostad-batch-09-lkau.onrender.com/](https://ostad-batch-09-lkau.onrender.com/)
 
 ## Tech Stack
 
