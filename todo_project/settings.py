@@ -26,6 +26,7 @@ SECRET_KEY = 'django-insecure-^=kn+1e3qi0rxqwk*bnt14qhnhl&xos(z&12@9+g3-2cg5o(4_
 DEBUG = True
 
 ALLOWED_HOSTS = [
+    '*',
     'localhost',
     '127.0.0.1',
     'subclimatic-sherri-nonprovocatively.ngrok-free.dev',
